@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+
+    <string name="string_original_language">Idioma original:</string>
+    <string name="string_voteAverage">Avaliação dos usuários:</string>
+    <string name="string_voteAverage_complement">%</string>
+
+    <string name="movie_popular">Populares</string>
+    <string name="movie_top">Mais votados</string>
+
+    <string name="more_information">Mais informações</string>
+</resources>
