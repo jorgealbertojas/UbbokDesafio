@@ -47,6 +47,7 @@ dependencies {
     implementation "com.squareup.retrofit2:adapter-rxjava:$Retrofit_version"
 
     testImplementation "org.mockito:mockito-core:$mockito"
+    implementation 'com.github.bumptech.glide:glide:4.8.0'
 
 
 }
